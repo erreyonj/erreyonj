@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erreyonj
 - 👀 I’m interested in Web Development, Mobile DAW Development, 
-- 🌱 I’m currently learning JS, React
+- 🌱 I’m currently progressing in JS, ReactJS, MongoDB, CI/CD, Cloudinary
 - 📫 How to reach me: LinkedIn, Instagram
 
 <!---
