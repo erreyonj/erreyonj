@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erreyonj
-- 👀 I’m interested in Web Development, Mobile DAW Development, 
-- 🌱 I’m currently progressing in JS, ReactJS, MongoDB, CI/CD, Cloudinary
+- 👀 I’m a Software Engineer at @100Devs
+- 🌱 I’m currently progressing in JS, ReactJS, MongoDB, CI/CD
 - 📫 How to reach me: LinkedIn, Instagram
 - Check my Portfolio on my site erresites.netlify.app
 
