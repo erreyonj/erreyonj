@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Redeemers Clean](https://redeemersclean.vercel.app/)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **More Advanced Tailwind**
 
 - 🤝 I’m looking for help with **Audio App Development**
 
