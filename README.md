@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Erreyon Elders</h1>
 <h3 align="center">A full-stack Software Engineer based in Illinois</h3>
 
-- 🔭 I’m currently working on [Discover APOD](https://erreyonj.github.io/discover-apod/)
+- 🔭 I’m currently working on [Redeemers Clean](https://redeemersclean.vercel.app/)
 
 - 🌱 I’m currently learning **NodeJS**
 
