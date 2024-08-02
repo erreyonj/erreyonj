@@ -1,15 +1,15 @@
 <h1 align="center">Hey 👋, I'm Erreyon Elders</h1>
 <h3 align="center">A full-stack Software Engineer based in Illinois</h3>
 
-- 🔭 I’m currently working on [Redeemers Clean](https://redeemersclean.vercel.app/)
+- 🔭 I’m currently working on [Well Wish](https://redeemersclean.vercel.app/)
 
-- 🌱 I’m currently learning **More Advanced Tailwind**
+- 🌱 I’m currently learning **SQL**
 
 - 🤝 I’m looking for help with **Audio App Development**
 
 - 👨‍💻 All of my projects are available at [erresites.netlify.app](erresites.netlify.app)
 
-- 💬 Ask me about **MERN Stack apps, CRUD apps**
+- 💬 Ask me about **Stytch Auth, Templating**
 
 - 📫 How to reach me **erreyon.js@gmail.com**
 
