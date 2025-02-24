@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Erreyon Elders</h1>
 <h3 align="center">A full-stack Software Engineer based in Madison, WI</h3>
 
-<!--- 🔭 I’m currently working on [Well Wish](https://redeemersclean.vercel.app/) -->
+- 🔭 I’m currently working for [Starplot](https://github.com/Starplot-ai)
 
 - 🌱 I’m currently learning **Finite State Machines**
 
