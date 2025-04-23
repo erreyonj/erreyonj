@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working for [Starplot](https://github.com/Starplot-ai)
 
-- 🌱 I’m currently learning **Finite State Machines**
+- 🌱 I’m currently learning **Finite State Machines, AI Agent Implementation, System Design**
 
 - 🤝 I’m looking for help with **Audio App Development**
 
-- 👨‍💻 All of my projects are available at [erresites.netlify.app](erresites.netlify.app)
+<!-- - 👨‍💻 All of my projects are available at [erresites.netlify.app](erresites.netlify.app) -->
 
 - 💬 Ask me about **Finite State Machines, Modularity, really anything Frontend**
 
 - 📫 How to reach me **erreyon.js@gmail.com**
 
-- ⚡ Fun fact **JJK, Demon Slayer and Aot are my top 3**
+- ⚡ Fun fact **JJK, Demon Slayer and Aot are my top 3 Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
