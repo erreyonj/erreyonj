@@ -1,15 +1,46 @@
 <h1 align="center">Hey 👋, I'm Erreyon Elders</h1>
 <h3 align="center">A full-stack Software Engineer based in Madison, WI</h3>
 
-- 🔭 I’m currently working for [Starplot](https://github.com/Starplot-ai)
+- 🔭 I’m currently working on erre.Plate, a public build project
 
-- 🌱 I’m currently learning **Finite State Machines, AI Agent Implementation, System Design**
+Full-stack developer specializing in AI-augmented development workflows. I build production-ready applications and share the journey publicly.
 
-- 🤝 I’m looking for help with **Audio App Development**
 
-<!-- - 👨‍💻 All of my projects are available at [erresites.netlify.app](erresites.netlify.app) -->
+🛠️ Technical Skills
+Core Stack
 
-- 💬 Ask me about **Finite State Machines, Modularity, really anything Frontend**
+Frontend: React, TypeScript, Tailwind CSS, Next.js
+Backend: Laravel (PHP), RESTful APIs, MySQL, PostgreSQL
+DevOps: Docker, CI/CD (GitHub Actions), Railway, Vercel
+Tools: Git, Redis, JWT Authentication, Sentry
+
+AI-Augmented Workflow
+
+Cursor, Claude, GitHub Copilot
+Rapid prototyping with AI assistance
+Critical path optimization and review
+3x shipping velocity through strategic AI use
+
+Production Focus
+
+Performance optimization (N+1 query elimination, caching strategies)
+Security best practices (OWASP Top 10, secure authentication)
+Monitoring and observability (Sentry, error tracking)
+Database design and indexing
+
+
+💼 Experience
+Full Stack Developer | Starplot
+Nov 24 - July 25 | Remote
+
+- Architected enterprise UI serving 10,000+ users with React, TypeScript, and Tailwind CSS
+- Built reusable table system with MUI DataGrid using builder pattern for dynamic data filtering
+- Integrated React Query for optimized API state management and caching
+- Developed RESTful API endpoints and assisted in HubSpot CRM integration
+- Implemented component-driven architecture with custom hooks and context providers
+- Established testing coverage using Vitest and Jest
+
+
 
 - 📫 How to reach me **erreyon.js@gmail.com**
 
